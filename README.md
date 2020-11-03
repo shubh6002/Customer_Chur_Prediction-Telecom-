@@ -1,1 +1,1 @@
-# Customer_Chur_Prediction_-Telco-
+# Customer_Chur_Prediction_Telecom
